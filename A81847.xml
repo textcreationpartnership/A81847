@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon at the funerall of the truely vertuous, honourable, valiant, in fame, never-dying, Sir Simon Harcourt, one of his Majesties most honourable privie councell in the realme of Ireland, and colonell over some of His Majesties forces there. Preached in Christ-Church in Dublin, Mar. 31. 1642. Before the Lords Justices, and the rest of His Majesties most honourable privie councell, his Majesties commanders and souldiers for that present service. By Edward Dunstervill, Batchelour of Divinitie. Now published by command of the House of Parliament.</title>
+            <author>Dunstervill, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81847</idno>
+            <idno type="STC">Wing D2618</idno>
+            <idno type="STC">Thomason E125_1</idno>
+            <idno type="STC">ESTC R15434</idno>
+            <idno type="EEBO-CITATION">99859863</idno>
+            <idno type="PROQUEST">99859863</idno>
+            <idno type="VID">156169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156169)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E125[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon at the funerall of the truely vertuous, honourable, valiant, in fame, never-dying, Sir Simon Harcourt, one of his Majesties most honourable privie councell in the realme of Ireland, and colonell over some of His Majesties forces there. Preached in Christ-Church in Dublin, Mar. 31. 1642. Before the Lords Justices, and the rest of His Majesties most honourable privie councell, his Majesties commanders and souldiers for that present service. By Edward Dunstervill, Batchelour of Divinitie. Now published by command of the House of Parliament.</title>
+                  <author>Dunstervill, Edward.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harcourt, Simon, --  Sir, 1603?-1642 --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Chronicles, 2nd, XXXV, 23-24 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156169:1"/>
+            <pb facs="tcp:156169:1" rendition="simple:additions"/>
+            <p>A SERMON At the Funerall of the truely Vertuous, Honourable, Valiant, in Fame, never-dying, Sir <hi>Simon Harcourt,</hi> One of his Majeſties moſt Honourable Privie Councell in the Realme of <hi>Ireland,</hi> and Colonell over ſome of His Majeſties forces there.</p>
+            <p>Preached in <hi>Chriſt-Church</hi> in <hi>Dublin, Mar.</hi> 31. 1642.</p>
+            <p>Before the Lords Juſtices, and the reſt of His Maje<g ref="char:EOLhyphen"/>ſties moſt Honourable Privie Councell, his Majeſties Commanders and Souldiers for that preſent ſervice.</p>
+            <p>By <hi>Edward Dunſtervill,</hi> Batchelour of Divinitie.</p>
+            <q>Opus unius Diei.</q>
+            <p>Now publiſhed by Command of the Houſe of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>London Printed for <hi>Richard Badger.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:156169:2"/>
+            <pb n="1" facs="tcp:156169:2"/>
+            <head>A SERMON Preached at the Funerall of Sir SIMON HARCOURT COLONEL in <hi>IRELAND.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>2</hi> Chron. <hi>35.23, 24.</hi>
+               </bibl>
+               <q>
+                  <p>And the Archers ſhot at King Ioſiah, and the King ſaid to his ſervants, have me away for I am ſore wounded.</p>
+                  <p>His ſervants therefore took him out of that Chariot and put him in the ſecond Chariot that he had; and they brought him to Ieruſalem and hee dyed, and was buried in the Sepulchre of his Fathers, and all Iudah, and Ie<g ref="char:EOLhyphen"/>ruſalem mourned for Ioſiah.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Have this day upon this moſt ſad occaſi<g ref="char:EOLhyphen"/>on two ſable ſubjects to treat on, one in the Text, the other out of the Text, the firſt is of ſlaine Ioſiah, a godly Prince, the ſecond is of this ſlaine Colonell a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odly ſubject: which two valiant worthies as they a<g ref="char:EOLhyphen"/>greed
+<pb n="2" facs="tcp:156169:3"/>in moſt things in the manner of their life, ſo did they alſo in the manner of their untimely timely death
+<note n="*" place="margin">Mutato nomine de il<g ref="char:EOLhyphen"/>lo fabula.</note>. For <hi>Ioſiah</hi> was ſhot in the field by an enemy, and ſo was he: <hi>Ioſiah</hi> was thereby ſorely wounded, and God knows ſo was he; <hi>Ioſiah</hi> was then carryed of in a Chariot by his ſervants, ſo was he by his ſervants, and ſad Officers; <hi>Ioſiah</hi> dyed of the ſtroake, and ſo did he; <hi>Ioſiah</hi> had the bleſſing to be buried in <hi>Ieruſalem,</hi> and ſo hath hee in this Citie; in a word <hi>Ioſiah</hi> was much la<g ref="char:EOLhyphen"/>mented both in <hi>Ieruſalem,</hi> and <hi>Iudah,</hi> and ſo will he be of all Gods ſervants, and Loyall Subjects, in the ſe<g ref="char:EOLhyphen"/>verall Kingdomes of his Majeſties Dominion.</p>
+            <p>Give me leave to ſpeak of the latter Subject firſt, if it be but to eaſe my owne preſent ſad thoughts for him.</p>
+            <p>Omitting to ſay any thing of his worthy deſcent, of his goodly education, his matching into an honoura<g ref="char:EOLhyphen"/>ble family, of his high Command, and how famouſ<g ref="char:EOLhyphen"/>ly he hath behav'd himſelfe in forraigne ſervices.</p>
+            <p>To begin with him at home.</p>
+            <p n="1">1. Hee was one who had an honourable repute in his and our Nation, with the moſt honourable there of a prudent faithfull and choyce Warrior, which may appeare by His Majeſties and the Honourable <hi>Parliaments</hi> joynt Election of him for this our great ſervice.</p>
+            <p n="2">2. He was one who from a Child was imployed in the Military ſervice of our faith and not affected as ſome with glorious weares, yet which is honourable indeed one that bore in his body Martyr-like, the markes of <hi>Chriſt Ieſus,</hi> having beene before this his laſt two ſeverall times ſore wounded in two ſeverall ſervices at <hi>Maſtrichte</hi> and <hi>Kinſconce.</hi>
+            </p>
+            <p n="3">
+               <pb n="3" facs="tcp:156169:3"/>3. And in a word which is the beſt of his renowne, the diamond in his gold, he was godly, honeſt, tempe<g ref="char:EOLhyphen"/>rate and faithfull as well to God and his Conſcience, as to His King and Country.</p>
+            <p>Durſt I preſume to inlarge my ſelfe further than my limited time, I could tell you rare things of his de<g ref="char:EOLhyphen"/>votion, of his frequency in private prayer, of his godly exerciſe with his Family, of his diligence in reading the Scripture and other holy bookes: Seldome, as I received, from diverſe of thoſe beſt acquainted with him did he come alone to his Chamber, but immedi<g ref="char:EOLhyphen"/>ately, for the moſt part he addreſt him ſelfe to the Bi<g ref="char:EOLhyphen"/>ble or ſome other good booke; a ſure argument, that he had his delight <hi>in the Law of the Lord,</hi> and therefore in a bleſſed condition.</p>
+            <p>In the time of my ſhort acquaintance with him I had in private a bundell of ſuch ſweet holy divine ex<g ref="char:EOLhyphen"/>preſſions from him, which with out treſpaſſing on my Conſcience, I may ſay, then filled my ſoule with ra<g ref="char:EOLhyphen"/>viſhment of joy, as it is now with ſorrow, that God ſhould be ſo gracious unto this diſtreſſed land, to ſend us in this needfull time a leader of his people, one as well vertuous as valorous, one that was both a <hi>Ioſhuah</hi> and a <hi>Ioſiah,</hi> and indeed ſuch a worthy of whom we in this ſinfull kingdome were not worthy.</p>
+            <p>It is worth recording that immediately before his fore ſtroke he was reproving a Souldier for ſwearing, demanding what if <hi>God</hi> had taken him away with that oath in his mouth.</p>
+            <p>After being himſelfe ſtricken, and deeming his wound to be mortall, hee with great willingneſſe and patient mildneſſe ſubmitted himſelfe to the LORDS will, and to my knowledge ſo continued unto the end.</p>
+            <pb n="4" facs="tcp:156169:4"/>
+            <p>It is true hee lay the after night and many houres the next day in a conſtant torture of unutterable griefs which could not but trouble each beholder, and yet in all the time of my being with him, I never heard one impatient paſſage from him, but comforting himſelfe that it was in Gods cauſe he ſuffered, ſaying to me, had it not beene his cauſe, he would never have come over hither on the ſervice; and in a word, paſſing by many devout paſſages, as long as his weary ſpirits had any vigour he ſcarce ever ceaſed ſending forth with great comfort and confidence moſt ſtrong cryes &amp; prayers; and as one ſuppoſing every breath to be his laſt, would frequently end his requeſts with that ſweet dying ſay<g ref="char:EOLhyphen"/>ing of Saint <hi>Steven, Lord into thy hands I give my ſpirit,</hi> and in the end with the breathing out of our prayers for his ſalvation he gave up the Ghoſt; So that how<g ref="char:EOLhyphen"/>ſoever his ſore wounded, dead, and bloud-died body is here with us to be inter'd in the duſt, yet am I confi<g ref="char:EOLhyphen"/>dent that his pure bathed ſoule is with the ſoule of <hi>Io<g ref="char:EOLhyphen"/>ſiah,</hi> with the ſoules of the bleſſed Martyrs, and of the juſt men made perfect in the preſence of <hi>Ieſus Chriſt,</hi>
+               <note place="margin">Heb. 12.23. Iſa. 53.5.</note> 
+               <hi>who was ſore wounded for his tranſgreſſions, bruiſed and ſlaine for his ſinnes,</hi> where he is triumphantly rejoycing like a great Conqueror, where he is made of a godly ſubject and valiant Souldier on earth, a moſt glorious happy and immortall King in Heaven. <hi>For bleſſed and holy is hee who hath part in the firſt Reſurrection, On him the ſecond death ſhall have no power, but they ſhall bee Prieſts of God and of</hi> CHRIST <hi>and ſhall Reigne with him a thouſand yeares, Rev.</hi> 20.6.</p>
+            <p>And thus much of the firſt thing propoſed in this Treatiſe, the ſubject out of the Text; to wit the tra<g ref="char:EOLhyphen"/>gicallſtory
+<pb n="5" facs="tcp:156169:4"/>of this ſlaine Chriſtian Colonell.</p>
+            <p>I proceed to ſpeake of the ſecond thing, of the ſub<g ref="char:EOLhyphen"/>ject in the Text, which is a like tragicall, to wit, of the fatall death of that godly valiant King <hi>Ioſiah.</hi>
+            </p>
+            <q>
+               <hi>And the Archers ſhot at King</hi> Joſiah, <hi>and the King ſaid, have me away for I am ſore wounded, &amp;c.</hi>
+            </q>
+            <p>Leaſt I ſhould treſpaſſe my commands, which is to bee briefe, I have hence cull'd out two particulars only to treat of:</p>
+            <p>The firſt is of <hi>Ioſiahs</hi> death.</p>
+            <p>The ſecond is of the peoples lamentation for him.</p>
+            <p>Certaine it is that there was not a King after <hi>David</hi> over <hi>Iudah</hi> and <hi>Iſrael</hi> like unto <hi>Ioſiah;</hi> who ſo reades the Bible <hi>Hiſtory</hi> ſhall finde moſt glorious things re<g ref="char:EOLhyphen"/>corded of him. It is ſaid of <hi>Goliah,</hi> 1 <hi>Sam.</hi> 17.33. <hi>That he was a man of Warre from his youth, but of this</hi> Joſiah <hi>that from his youth hee did ſeeke after the God of</hi> David; <hi>and in the twelfth yeare he began to purge</hi> Judah <hi>and</hi> Jeruſalem <hi>from the high places,</hi> &amp;c. 2 <hi>Chron.</hi> 34 4.5, 6. <hi>Hee did that which was right in the ſight of the Lord, and turned not aſide to the right hand or to the left,</hi> 2 <hi>King.</hi> 22.2. In a word ſuch was his zeale againſt Idolatry and to the ſervice of the Lord, that hee re<g ref="char:EOLhyphen"/>maines on ſacred record without parallell; and yet for all this, you ſee that <hi>Ioſiah was ſhot, Ioſiah was ſore woun<g ref="char:EOLhyphen"/>ded</hi> and taken away with a ſtroake of an enemy in the Field as well as others. Whence we may obſerve this concluſion, that
+<q>
+                  <hi>The events, occurrencies and ſtroaks of Warre, they may betide the good as well as the bad, the beſt as well as the worſt of the Lords people.</hi>
+               </q>
+            </p>
+            <pb n="6" facs="tcp:156169:5"/>
+            <p>1 <hi>Sam.</hi> 17. In the great battaile betwixt the <hi>Phili<g ref="char:EOLhyphen"/>ſtines,</hi> and <hi>Iſrael</hi> God by <hi>Davids</hi> hand with a ſling, ſtone ſtroke nocent <hi>Goliah,</hi> and 2 <hi>Sam.</hi> 7. Thus in a hot b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttaile was innocent <hi>Vriah</hi> ſmitten alſo, 1 <hi>Sam.</hi> 31.3. Diſobedient <hi>Saul</hi> was ſhot, and ſayes the Text, <hi>ſore wounded:</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo was godly and obedient <hi>Ionathan</hi> in the ſame field on the ſame day, againe 2 <hi>Chron.</hi> 18.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>A certaine man drew a Bow at a venture, and ſmote wicked</hi> Ahab <hi>betweene the joynts of the armes, ſo that hee called to his Chariot man, haſt me away for I am ſore woun<g ref="char:EOLhyphen"/>ded.</hi> And you ſee here that the like occurrence betides this moſt godly Prince <hi>Ioſiah.</hi> So that as it is ſaid con<g ref="char:EOLhyphen"/>cerning the Duke of <hi>Alua's</hi> ſword, that it knew no difference betwixt the Proteſtant or Papiſt, ſo may I ſay of the adventurous ſhots and ſtroakes of Warre, it makes no difference twixt the godly man and the ſinner.</p>
+            <p>Juſtly therefore are thoſe to bee judged, who will take upon them to judge men by theſe events; for cer<g ref="char:EOLhyphen"/>tainely there is no rule more uncertaine, See <hi>Eccleſ.</hi> 9.2. <hi>All things come alike to all</hi> (viz. <hi>all outward things) there is one event to the righteous and to the wicked, to the good and cleane and unto the uncleane, to him that ſweares, and to him that feares an oath,</hi> in <hi>Luke</hi> 13.1, 2, 3. Our Saviour reaſons this caſe with certaine who conceived that they were more righteous than others, <hi>becauſe that they eſcaped the hands of bloud ſhedding Pilate;</hi> Others <hi>becauſe they eſcaped the fall of the Tower of Siloe which ſlew eighteene perſons,</hi> but our Saviour tells them <hi>Nay,</hi> but <hi>except ye repent, ye ſhall all likewiſe periſh;</hi> It is true ſom<g ref="char:EOLhyphen"/>times God in judgment to deſtroy wicked men, ſends outward evills, ſometimes in the field, ſometimes in their families, ſometimes in their beds, ſometime in
+<pb n="7" facs="tcp:156169:5"/>battell as he did <hi>Abner,</hi> and <hi>Ahab,</hi> and <hi>Abſolom,</hi> and <hi>Shebah,</hi> with many of the rebellious and provoking among the people of <hi>Iſrael</hi> of old, and in Hiſtories as he did <hi>Olimpius</hi> the <hi>Arrian</hi> Heretike <hi>Anno</hi> 510. and as hee did <hi>Iulian</hi> the Apoſtate, who was ſlaine with an <hi>Arrow</hi> having intended upon his returne from <hi>Perſia</hi> to have ſlaine all the Chriſtians, to root out the name of the <hi>Galileans:</hi> and as he did the wicked Em<g ref="char:EOLhyphen"/>perour <hi>Diocleſian</hi> of whom it is reported, that hee was ſtrooke with madneſſe, and as he did that wicked late perſecuting <hi>Gardiner,</hi> who was ſuddenly taken and deſtroyed by a ſtrange ſtrong burning Feaver. Notwithſtanding to conclude, that all who have ſuf<g ref="char:EOLhyphen"/>fered theſe or the like outward evils, are greater ſinners then others, becauſe they ſuffered ſuch things, is no divinity.</p>
+            <p>The grounds of the points are two.
+<note place="margin">1. Ground.</note>
+            </p>
+            <p>The firſt is taken from the cruell diſpoſition of the wicked, it is certain the wicked hate the juſt and their mercies towards them are cruell as wee may ſee in <hi>Ahab</hi> and <hi>Amaziah,</hi> and <hi>Iezabel</hi> and <hi>Paſhur</hi> and <hi>Saul,</hi> and in the Primitive and later perfecutors, as <hi>Domitian, Diocleſian, Valentinian, Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Garnet, Gardi<g ref="char:EOLhyphen"/>ner</hi> and others
+<note n="*" place="margin">Heb. 11.</note> and that which wee now know by woefull experience of this bitter and haſty Nation, who <hi>Caldean</hi> like
+<note n="*" place="margin">Hab. 1.6.</note> have not onely marched through the breadth of our Land, and poſſeſſed the dwelling places which are theirs, but have moſt deſpitefully re<g ref="char:EOLhyphen"/>proached our Nation, and moſt holy profeſſion, branding both with as foule opprobrious obloquies as could be deviſed, either againſt <hi>Iewes</hi> or <hi>Mahume<g ref="char:EOLhyphen"/>tans,</hi> neither have the reſted herein, but like ſo many evening Wolves, have torne in peeces poore innocent
+<pb n="16" facs="tcp:156169:6"/>babes, ſtripped as well Aged as others in the coldeſt ſeaſon both men and women ſtarke naked, and now (wee heare) as in the <hi>Parſian</hi> maſſacre under that cruell Duke of <hi>Guiſe,</hi> he cut off all, yea as in the <hi>Sici<g ref="char:EOLhyphen"/>lian</hi> ſlaughter of the <hi>French,</hi> rip up the bellyes of our Proteſtant women. Beſides the more holy (from the beginning of the rebellion, when their mindes were beſt difpoſed) the more holy any man, any Miniſter had b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, the worſe it fared with him, ſuch have been fure to bee ſtigmatized, to bee ſore wounded, to bee ſlaine or hanged; So that if in an Army they could diſcover ſuch a one, a Puritan as they terme ſuch, ſurely they would give charge as the King of <hi>Syria</hi> in another caſe, neither fight with ſmall or great, but againſt him.</p>
+            <p>The ſecond ground is taken from Gods permiſ<g ref="char:EOLhyphen"/>ſion.
+<note place="margin">Ground 2.</note> 
+               <hi>God is able to guide the inſtruments of Warre as he pleaſes, either with</hi> Jonathan <hi>to ſhoot beyond, or on either ſide his gifts:</hi>
+               <note place="margin">1 Kings. 19. Dan. 6.22. Dan. 3 25.</note> 
+               <hi>as he was able to keepe</hi> Elijah <hi>from the fury of</hi> Ahab <hi>and his wicked Wife;</hi> Daniel <hi>from the fury of the Lions, the three Children from the fury of the fire, as hee did</hi> Jehoſaphat <hi>and</hi> David <hi>who were frequent in hot ſervices, yet were kept from the ſtrokes: and yet the Lord in wſdome findes cauſe ſometimes to permit the righteous to be ſmitt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, ſore wounded, and fall in the battaile as well as the unrighteous ſinner.</hi>
+            </p>
+            <p>Neither yet may we conceive that this is for evill,
+<note place="margin">Cauſes. 1.</note> but firſt ſometimes to prevent evill, <hi>Iſa.</hi> 57.1. <hi>The righteous periſheth, and no man layeth it to heart, and mer<g ref="char:EOLhyphen"/>cifull men are taken away none conſidering that the righ<g ref="char:EOLhyphen"/>teous is taken away from the evill to come, and for this cauſe it is plain that God took away this godly Prince in the Text thus ſuddenly,</hi> 2 <hi>King.</hi> 22 20.</p>
+            <pb n="13" facs="tcp:156169:6"/>
+            <p>When God hath had a purpoſe to bring a lingring heavie calamity upon a Land, it hath been uſuall with him to call and cull out to himſelfe ſuch as are his deerely beloved, as <hi>Lot</hi> to <hi>Zoar,</hi> theſe with himſelfe,
+<note place="margin">Gen. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſafe and free from the diſcomfort thereof. Even as a carefull mother who ſeeing her Children in the way, when ſhe beholds a company of wild Horſes or beaſts comming, ſhe preſently whips up the Child in<g ref="char:EOLhyphen"/>to her armes and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes him home, or as the Hen ſeeing the ravenous Kite hovering in the ayre over her, ſhee clocks &amp; gathers her <hi>chickings</hi> under her wing, even ſo when as the Lord ſees a hovering judgement over a Land like a flying fiery Scroule, hee gathers ſome of his choyce ſervants unto himſelfe, that hee may pre<g ref="char:EOLhyphen"/>ſerve them from the evill thereof. It was a paſſage which this worthy Colonell faſtned for his own ſtay and comfort in the day of his departure in my hear<g ref="char:EOLhyphen"/>ing, that he did conceive that this might be a cauſe of this Gods dealing with him, expreſſing his feares of ſome approaching evill to the Church of God: I pray God that according to his feares it fall not out unto us.</p>
+            <p>Secondly, God may have a minde in his ſo doing to bring them the more ſuddenly to Heaven, one re<g ref="char:EOLhyphen"/>ports it for a ſaying of <hi>Bradford</hi> the moſt bleſſed Mar<g ref="char:EOLhyphen"/>tyr, if there being any going on Horſe backe to Hea<g ref="char:EOLhyphen"/>ven it is by Martyrdome, for this ſends them away in an inſtant, as faſt as a raging fit or the like can haſte them, had the Gunpowder plot taken, had <hi>Faux</hi> once given fire, how ſoone had his then Majeſty with thou<g ref="char:EOLhyphen"/>ſands more of Gods moſt holy ſervants before the glance of an eye or motion of a thought beene in Paradiſe, and certainely with the like celerity, are all
+<pb n="16" facs="tcp:156169:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:156169:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:156169:8"/>thoſe of his Saints haſted unto the Lord, who with <hi>Ioſiah</hi> and this ſweet holy Worthy are taken away with a ſtroake of an Arrow, or any other inſtruments of Warre before they can returne to their Chambers their ſoules are in heaven.</p>
+            <p>Thirdly, becauſe that God hath a mind to honour ſuch his Saints in their death before men.
+<note n="*" place="margin">Dying in the Field we ſtile a dying in the bed of ho<g ref="char:EOLhyphen"/>nour.</note> For indeed next to martyrdome no wounds ſo honourable, no death ſo glorious, nay no health or life ſo honourable, when as they are wounded in the Lords battaile, when as they dye in Gods cauſe, have they not in this that ſurpaſſing glory to be made like unto <hi>Chriſt Ieſus,</hi>
+               <note place="margin">Iſa. 63.1.2.</note> who went hence according to the prophecie, with his gar<g ref="char:EOLhyphen"/>ments and ſacred body dyed in his owne pretious warme hearts bloud. We reade of a ſweet Primitive Martyr, that whereas the perſecutors had cut <hi>orifices</hi> diverſe wounds in his ſides, hee even ſmiled ſaying, now have I ſo many more mouthes, meaning his wounds, to praiſe the Lord for whom I ſuffer theſe things: Nay it is reported of an holy Empereſſe, who with her hands dreſſed the wounds of the perſecuted Saints: Of <hi>Conſtantine</hi> who kiſſed the eye of <hi>Paph<g ref="char:EOLhyphen"/>nutus</hi> put out by the <hi>Arrians,</hi> ſome Souldiers affect glorious dies in apparell, but give mee a Souldier whoſe garments have been dyed in bloud, for there<g ref="char:EOLhyphen"/>in is the beſt of outward glory, excellent is that brave reſolution of <hi>Paul, God forbid that I ſhould glory in any thing, ſave in the Croſſe of Chriſt Ieſus, Gala.</hi> 6.14. where by Croſſe is not meant <hi>Conſtantines</hi> or the Papiſts fond materiall Croſſe, one of their dumbe Idols, but the ſufferings, the ſtripes, which hee under<g ref="char:EOLhyphen"/>went for the profeſſion of his faith towards the Croſſe: <hi>Ieſus,</hi> See an example of this, in <hi>Acts</hi> 5.40.41.
+<pb n="11" facs="tcp:156169:8"/>of <hi>Peter</hi> and the other Apoſtles, who when they were impriſoned and beaten, they went from the Councell rejoycing that they were counted worthy to ſuffer for Chriſts name. <hi>Pauls</hi> chaine was <hi>Pauls</hi> glory, and <hi>Peters</hi> Croſſe, was <hi>Peters</hi> Crowne.</p>
+            <p>This uncertainty of the occurrences of War doth certainely afright multitudes of way ward ſpirits a<g ref="char:EOLhyphen"/>mong us, who thinke it death to goe into the field to put their heads out at a Caſtle, but to ſuch I ſay, ſith God hath made you men, quit your ſelves like men, for ſhame feare not to bee made honourable: beſides conſider how Chriſt was ſmitten wounded and ſlaine for thy ſake, why then will you feare to ſuffer the ha<g ref="char:EOLhyphen"/>zard of wound or of life for his ſake.</p>
+            <p>Laſtly, this ſhould worke every Colonell, Officer and Souldier of an Army to a holy care to prepare themſelves for every event before-hand, and to make their peace with God on their knees in their Cham<g ref="char:EOLhyphen"/>bers b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore they go into the field. Thus did thoſe two renowned Emperours, <hi>Conſtantine</hi> and <hi>Theodoſius;</hi> for this end conſider what you have heard, godly <hi>Ioſiah</hi> was ſhot and fell in the field, as well as unrighteous <hi>Ahab,</hi> and if this happen to a <hi>Ioſiah,</hi> to the greene Tree what cauſe have the wicked eſpecially to feare, and as they are making ready the weapons of Warre, ſo to make ready their ſoules and ſpirits for the Lord that made them. It is a fond conceipt, that every one that dyes in the field ſhall goe to Heaven, then <hi>Goliah</hi> had gone to Heaven, then <hi>Shebah</hi> and <hi>Abſolon,</hi> thoſe two great Rebels had gone to Heaven, then <hi>Richard</hi> the third that uſurping murderous Tyrant had gone to Heaven, then theſe impious rebels, ſome whereof are already fallen, and the reſt whom I doubt not but
+<pb n="21" facs="tcp:156169:9"/>God will give us for a prey) according to the tenure of their baſe romiſh Bulls ſhould goe to Heaven: ſurely for thoſe that die in the Lords quarrell, God forbid that I ſhould not be charitable in my ſecret thoughts of ſuch, yet let me tell you, that hee that goes to Hea<g ref="char:EOLhyphen"/>ven, <hi>he muſt die in the Lord, as well as for the Lord, Rev.</hi> 14.13. <hi>Rom.</hi> 8.1.</p>
+            <p>Man ſayes <hi>Salomon knowes not his own time though he bee in his parlour, though in his bed, though at his table feeding, though in the fields walking, though in Taverne revelling;</hi> how many preſidents might I name you in ſacred ſtories, in humane hiſtories, and ſome in our ex<g ref="char:EOLhyphen"/>perience who have ſuddenly beene taken away in all places and conditions? So that in all places, in all con<g ref="char:EOLhyphen"/>ditions, in all actions, at all times, it is a good and meet thing that all perſons make ready, with their loynes girt,
+<note place="margin">Luk. 12.35.36.</note> with their lights burning, to bee like men who wait for their Lord; <hi>Watch yee therefore,</hi> ſayes CHRIST, <hi>for ye know not when the Maſter of thehouſe commeth, at even, at midnight, or at the Cocke crowing, or in the morning,</hi>
+               <note place="margin">Mark. 13.35 36.</note> 
+               <hi>least comming ſuddenly, he find you ſleep<g ref="char:EOLhyphen"/>ing, and what I ſay unto you meaning his Diſciples, I ſay unto all watch.</hi> But eſpecially give mee leave to apply my ſelfe to you who are in the ſervice of Warre, a ſervice honourable, and honoured, yet perillous above all wayes of ſervice, becauſe for you our enemies dai<g ref="char:EOLhyphen"/>ly lay ambuſhments, watch night and day in every opportune place, who are often whole dayes and nights, or may bee charged with inſtruments ready prepared to take away your lives, you I ſay of all men ſhould ſpeedily make ready, ſo that though you bee with <hi>Ioſiah</hi> ſore wounded in body, in the day of battel, you may have the ſweet comforts, the ſweet com<g ref="char:EOLhyphen"/>forts
+<pb n="13" facs="tcp:156169:9"/>of a good Conſcience in your ſoules,
+<note place="margin">Eccleſ. 12.</note> in a word though killed, you may gloriouſly live in your ſpirits with that God, who made you, and his Sonne Chriſt Jeſus, <hi>who gave his owne bloud aranſome for you.</hi> And this of this firſt point.</p>
+            <p>I proceed now from <hi>Ioſiahs</hi> death to the peoples la<g ref="char:EOLhyphen"/>mentation for him.</p>
+            <p>
+               <hi>And all Iudah and Ieruſalem mourned for I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiah.</hi>
+            </p>
+            <p>This mourning for this godly Saint is further inlar<g ref="char:EOLhyphen"/>ged, in <hi>Zach.</hi> 12.11. <hi>In that day there ſhall bee a great mourning in Ieruſalem as the mourning of Hadadrimon in the Valley of Megiddon, and the land ſhall mourne, &amp;c.</hi>
+            </p>
+            <p>The point ariſing thence is,
+<q>
+                  <hi>That when God takes away an eminent Saint, ſet in place of extraordinary ſervice, that then is ſurely great cauſe of great lamentation.</hi>
+               </q>
+            </p>
+            <p>When <hi>Abner</hi> that great Generall of the field was ſlaine by <hi>Ioab,</hi>
+               <note place="margin">2 Sam. 3.32.33</note> it is ſtoried that <hi>David curſed Ioab, and he and his people mourned greatly for Abner,</hi> and ſayes the Text, <hi>the King lift up his voyce and wept at the grave of Abner, and all the people wept, and the King lamented over Abner, &amp;c.</hi> Again behold what exceſſive mour<g ref="char:EOLhyphen"/>ning was by him, and his people at the tydings of the death of <hi>Saul</hi> and <hi>Ionathan,</hi> but eſpecially for righte<g ref="char:EOLhyphen"/>ous <hi>Ionathan, Then David tooke hold of his cloathes, and rent them, and likewiſe all the men that were with him, they mourned and wept and faſted untill even for</hi> Saul,
+<note place="margin">2 Sam. 1.7.12. 2 Sam. 1.24, 15</note> 
+               <hi>and</hi> Jonathan <hi>and for the people of the Lord, and for the houſe of Iſrael, becauſe they were fallen by the ſword,</hi> after hee applies himſelfe to the women moſt pathetically, and elegantly: <hi>Yee daughters of Iſrael weepe over</hi> Saul
+<pb n="14" facs="tcp:156169:10"/>
+               <hi>who cloathed you in Scarlet with other delights, who put on ornaments of gold upon your apparell. How are the mighty fallen in the middeſt of the battell, O</hi> Jonathan <hi>thou waſt ſlaine in thy high places, I am diſtreſſed for thee my brother</hi> Jonathan, <hi>&amp;c.</hi> Moreover I dare adventure to go fur<g ref="char:EOLhyphen"/>ther, that to be inſenſible of an affliction, that beſides a <hi>Ioſeph</hi> a Saint, a Land of Gods people, is a provok<g ref="char:EOLhyphen"/>ing ſinne as is plaine, <hi>Amos</hi> 6.1, 2, 4, 5. Much more when the Lord doth not only wound but take away a <hi>Ioſeph</hi> a <hi>Ioſiah</hi> a religious Stateſman, a godly Officer, as he hath done from us this day.</p>
+            <p n="1">1. Becauſe as you have heard it is a preſage of ſome neere approching evill to the land from whence they are taken.</p>
+            <p n="2">2. Becauſe this begets courage and gives cauſe of triumph to the adverſaries, a thing to be lamented, oh how did the Papiſts joy, and rejoyce at the death of that ſweet <hi>Ioſiah Edward</hi> the ſixth, and of his unpa<g ref="char:EOLhyphen"/>ralleld godly Siſter Queene <hi>Elizabeth,</hi> and without queſtion which pierces my heart to thinke on the like rejoycing is now in the hearts of our baſe and cruell enemits in this Kingdome upon the unhappie tydings of the fall of this renowned valiant. This was one maine cauſe of <hi>Davids</hi> great mournings for the loſſe of the forenamed <hi>Saul</hi> and <hi>Ionatham,</hi> 2 <hi>Sam.</hi> 1.19, 20, 21. <hi>The beauty of Iſrael is fallen ſlaine how are the migh<g ref="char:EOLhyphen"/>tie fallen? Tell it not in Gath, publiſh it not in the ſtreets of Askalon,</hi> Why? <hi>Leaſt the daughters of the Phili<g ref="char:EOLhyphen"/>ſtims rejoyce, least the daughters of the uncircumciſed tri<g ref="char:EOLhyphen"/>umph,</hi> and for this cauſe ſayes oe o<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our Tex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it was that <hi>Ioſiah's</hi> ſervants after he was wounded took him out of his owne Chariot where he was, and put him into another Chariot, to cover and conceale his death
+<pb n="15" facs="tcp:156169:10"/>from the enemy leaſt they ſhould have then trtumph<g ref="char:EOLhyphen"/>ed in the Campe.</p>
+            <p>Thirdly, conſider that howſoever it is in many re<g ref="char:EOLhyphen"/>ſpects a bleſſing to the Saints thus taken from us, yet is it in it ſelfe a grievous judgement to the people left where they had abode ſee the Prophets bewaylings of this evill and how hee rankes it with one of Gods ſore judgments, <hi>Iſa.</hi> 3.1, 2, 3. <hi>For behold the Lord, the Lord of Heasts will take from Ieruſalem the ſtay and ſtaffe, the whole stay of bread, &amp; the whole ſtay of water, the migh<g ref="char:EOLhyphen"/>tie man</hi> (marke) <hi>the man of War, the Iudge and the Pro<g ref="char:EOLhyphen"/>phet, and the prudent, and the Ancient, and the Captaine of fiftie, and the honour able man, and the Councellor;</hi> So that not improperly may the ſoules of ſuch cry, and apply to the relict land, that of our bleſſed Saviour; <hi>Weep not for me but weep for your ſelves,</hi> for as their gaine is unutterable ſo in their death, the Kingdomes loſſe unconceiveable. I remember what a moſt ſolid holy Divine
+<note n="*" place="margin">M. Bolton in his Funeral notes on Iudg Nicols.</note> ſaid of the death of a worthy Judge of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that the redemption of the life of ſuch a one in ſuch times as we live in, for the good of ſuch a Coun<g ref="char:EOLhyphen"/>try had beene worth a Kings ranſome, neither in my opinion doe I conceive, that the life of this deceaſed Gentleman in ſuch a time and place as this is to bee prized at a lower rate, all the bloud in the bodies of a province of Rebels is not worth the bloud that ran in his Vaines.</p>
+            <p>The ground of this concluſion is in that the loſſe of ſuch men doe greatly weaken the State of a Realme, eſpecially when a Realme is in ſuch a broken conditi<g ref="char:EOLhyphen"/>on, and ſtands in ſuch need of mighty men, of men of Warre and prudent Captaines and honourable Coun<g ref="char:EOLhyphen"/>cellors, and moſt of all of godly ſervitors, as ours doth this day.</p>
+            <pb n="16" facs="tcp:156169:11"/>
+            <p>It is a great loſſe to loſe an <hi>Abner,</hi> a <hi>Ioab,</hi> a valiant Captaine, ſuch as were our old Engliſh <hi>Warwick, Tal<g ref="char:EOLhyphen"/>bot,</hi> and <hi>Bedford,</hi> who were the terrour of the <hi>French,</hi> ſuch as <hi>Mountjoy, Eſſex,</hi> and <hi>Chicheſter</hi> in <hi>Ireland,</hi> but there is no loſſe like the loſſe of ſuch as theſe, being godly religious.</p>
+            <p>As for a ſwearing deboyſt Souldier,
+<note place="margin">Ioſ. 7.</note> he may bring a curſe upon the Camp, he may loſe the day in the field though he fight couragiouſly; wee have an example of this in <hi>Achan,</hi> it is like he neither wanted skill nor will, nor courage enough to help the Lords noaſt, but by the wickednes he committed in taking the unlaw<g ref="char:EOLhyphen"/>full pillage, the wedge of Gold, and the Babiloniſh garments, he ſo provoked God, that he permitted the men of <hi>Ai</hi> to ſmite <hi>Iſraels</hi> great Hoaſt, them under brave <hi>Ioſhuah,</hi> that before proſperous Generall. In <hi>Tertullians</hi> time the Chriſtian Saints were counted of the wicked as now with us, <hi>hoſtes publici,</hi> the enemies of the common-Wealth, ſo <hi>Ahab</hi> accounted of <hi>Elijah</hi> the troubler of Iſrael, but the truth is, it is <hi>Ahab</hi> and ſuch as he, wicked men who cauſe trouble, and all evill that betides a State, being indeed as ſo many ſecret hornets and Caterpillars to a Common-wealth, or as ſo many vipers who eate into the bowels of their mo<g ref="char:EOLhyphen"/>ther the Church.</p>
+            <p>As for the godly howſoever deem'd by the wicked they are the beſt friends that they have in the world, they are the ſtrength of a Land,
+<note place="margin">2 King. 2.</note> as it is ſaid of <hi>Elijah, they are the Chariots and horſe-men of Iſrael,</hi> that is their very ſtrength of War, who prevaile more, though at home <hi>precando,</hi> then the Souldiers can <hi>pugnando.</hi> Take away ſayes famous <hi>Jewell</hi> the bonds the hoopes of the veſſell and all will fall aſunder, ſo if God take away
+<pb n="17" facs="tcp:156169:11"/>theſe who are our bonds, our hoopes, our Church, our <hi>Common-weale</hi> cannot hold together, See Iſa. 1. <hi>Except Lord had left us a ſeed, we had been as Sodome,</hi> That is except the Lord had continued ſome ſeed of righte<g ref="char:EOLhyphen"/>ous men, we had been deſtroyed before this day. An example of this we have in <hi>Geneſis</hi> 19. Whenas the Lord was about to deſtroy <hi>Sodom, Gomorrah, Admah, Zeboim,</hi> and <hi>Zegor,</hi> had there been in thoſe five Cities but 50, 45, 40, 30, 20. Yea ten righteous perſons the Lord would not have deſtroyed them: for why ſayes the Text, for tens ſake; moreover whenas the Lord was bringing fire on them becauſe there was not ten righteous perſons found there, onely <hi>Lot</hi> his Wife and his two daughters, though a family abaſed, and abuſed by the ungodly Citizens, yet the Lord out of his pretious eſteeme and care of them, hee provides a <hi>Zoar</hi> a ſafe place for <hi>Lot</hi> and them, and commands them to make haſt thither, Why? becauſe ſaies the Lord, I cannot doe any thing, marke, <hi>I cannot doe any thing, untill you be come thither, Gen.</hi> 20.22.</p>
+            <p>Theſe things being conſidered, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> let any reaſonable man tell me when as a godly <hi>Ioſiah</hi> or any other godly and Religious Commander or any righteous perſon whatſoever is taken away, eſpecially I ſay where there is ſuch breaches and perills, whether that the people of that Land, nay all the people thereof with <hi>Iudah</hi> and <hi>Ieruſalem</hi> have not cauſe to mourne and lament greatly.</p>
+            <p>It was <hi>Zedekiahs</hi> bleſſing of honour to be lamented of the people, <hi>Ier.</hi> 34.5. And contrary it is a judgment for an eminent perſon to die, and the people not to la<g ref="char:EOLhyphen"/>ment, as Jer. 16.4, 5, 6. Wherefore it is an evill done to the party deceaſed, but indeed the greateſt evill is done unto God and to our ſelves.</p>
+            <pb n="18" facs="tcp:156169:12"/>
+            <p>For our particulars,
+<note place="margin">Sir Laurence Carij, and Captaine Rorchford.</note> I pray God it bee not a preſent ſin in this our preſent evill time, we had two religious valorous brave Officers ſore wounded to death of late before this Honourable Colonell. I might ſay they were were too ſlightly lamented, howſoever conſider what you have heard this day among other things that the neglect thereof is a moſt grievous ſin, as a ſigne of a moſt wicked ſenſuall obdurate heart. My bel: we have other ſins as yet reigning and very raging among us want of humiliation on faſt dayes, exceſſive drun<g ref="char:EOLhyphen"/>kenneſſe abundance of oathes, notwithſtanding all the deſires that God hath brought upon us, God of hea<g ref="char:EOLhyphen"/>ven withſtand that wee perſiſt no further therein, but that wee may forſake our wicked wayes, and returne unto the Lord who though hee hath ſtricken us, then wil he ſurely heale us, and make the light of his coun<g ref="char:EOLhyphen"/>tenance againe to breake forth upon us in this land of darkneſſe. But paſſing many other things which the very ſhort time of my meditation conſtraines me unto Let mee beſeech you right Honourable and the reſt of Gods people here preſent to apply your hearts to a ſa<g ref="char:EOLhyphen"/>ble ſenſibleneſſe of this great evill w<hi rend="sup">ch</hi> the Lord hath done unto us, let it never be ſaid that ſuch a religious af<g ref="char:EOLhyphen"/>fable honourable worthy, who came over and offered himſelfe willingly to help us, and by <hi>Gods</hi> bleſſing did, having by Gods permiſſion in our cauſe fallen; <hi>I</hi> ſay, let it never be ſaid that ſuch a great man ſhould fall in this our <hi>Iſrael,</hi> and the people did not lament, leaſt the <hi>Lord, great Iehovah be angry and in his diſpleaſure take a<g ref="char:EOLhyphen"/>way yet more of thoſe brave valiants which he raiſed up for us, to the weakening of our armies, and the ruine of our hopes. And thus have I ended a few houres meditation of that which may well be many yeares Lamentation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156169:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
